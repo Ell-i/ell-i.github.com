@@ -1,0 +1,21 @@
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: true
+pygments: true
+
+title : ELL-i
+tagline: ELectric Line Intelligence
+author :
+  name : ELL-i
+  email : pekka.nikander@iki.fi
+  github : pekkanikander
+
+production_url : http://www.ell-i.com
+
+JB :
+  version : 0.3.0
+
+  BASE_PATH : false
+  ASSET_PATH : /assets
+
