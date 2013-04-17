@@ -63,7 +63,7 @@ are much smaller and use much less energy.
 
 ## Intelligence
 
-Each ELL-i node is equipped with a powerful (30 Mhz) 32-bit
+Each ELL-i node is equipped with a powerful (48 Mhz) 32-bit
 microcontroller.  The microcontroller is available for building
 intelligent applications that communicate in real-time with other
 nodes, transmit data such as audio or video, and manage autonomously
