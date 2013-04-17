@@ -19,3 +19,7 @@ JB :
   BASE_PATH : false
   ASSET_PATH : /assets
 
+  analytics :
+    provider : google
+    google :
+      tracking_id : 'UA-40208127-1'
