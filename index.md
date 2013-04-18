@@ -17,7 +17,7 @@ price and easy-to-install form factor, thereby allowing a new class of
 fixed and embedded devices, such as LED lights, active loudspeakers,
 safety systems, sensors, and actuators.
 
-With the Power-over-Ethernet 802.3at standard, utilising all four
+With the Power-over-Ethernet 802.3at standard, utilizing all four
 pairs, a single ELL-i node may provide up to 50 Watts of electrical
 power over standard Ethernet cabling parallel to data communication
 for distributed processing applications.  Given the electrical
