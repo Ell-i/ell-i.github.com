@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Welcome to ELL-i
-header: ELL-i -- Open Source PoE Intelligence -- Home
+title: Open Source PoE Intelligence -- Home
+tabtitle: Home
+header: Welcome to ELL-i
+group: navigation
 ---
 ELL-i is an Open Source hardware and software platform for intelligent
 Power-over-Ethernet (PoE) devices.  ELL-i provides both makers and

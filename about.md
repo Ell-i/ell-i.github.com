@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About ELL-i
-header: ELL-i -- About
+header: About
+tabtitle: About
+tagline: ELL-i, Open Source Power-over-Ethernet Intelligence
 group: navigation
 ---
 
