@@ -4,7 +4,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 
-title : ELL-i
+title : <img src="elli.svg" alt="ELL-i" width="100px" />
 tagline: ELectric Line Intelligence
 author :
   name : ELL-i
