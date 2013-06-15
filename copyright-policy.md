@@ -51,11 +51,14 @@ To achieve these high-level goals, we believe that it is essential to
 ## Tentative copyright policy
 
 To achieve the goals above, the co-operative 
+
 * asks the contributors to assign the code copyrights to the
   co-operative,
+
 * licences the thus forming body of copyrighted source code and design
   under an open source licence to the general public, for
   non-commercial use, and
+
 * licenses the body of source code under a commercially viable licence
   to commercial parties that want to build products on the top of the
   ELL-i platform.
