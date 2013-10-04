@@ -57,4 +57,4 @@ ELL-i is registered to The Finnish Trade Register (ID: 2555591-8) with
 name Ell-i open source co-operative.
 
 ELL-i is a member of EIT ICT Labs Business Development Accelerator and
-supported by EIT ICT Labs.
+supported by EIT ICT Labs. 
