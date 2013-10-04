@@ -42,7 +42,7 @@ We have looked at the existing standards and DIY components to find a
 nice open solution.  While Power-over-Ethernet (PoE) was a clear
 choice as the backbone for the network due to its characteristics and
 good components availability, there are no DIY modules on the market.
-Therefore we decided to start the ELL-i (Electrical Line Intelligence)
+Therefore we decided to start the ELL-i (ELectrical Line Intelligence)
 community and project, to initially build a DIY board that can be
 utilised at the end of a PoE line.  In the future we plan to expand
 the choice of various open source modules.
@@ -52,3 +52,9 @@ the choice of various open source modules.
 ELL-i is being formally organized in a way that enables effective
 implementation and distribution of the products and subsystems needed
 for solution development in the spirit of open source.
+
+ELL-i is registered to The Finnish Trade Register (ID: 2555591-8) with
+name Ell-i open source co-operative.
+
+ELL-i is a member of EIT ICT Labs Business Development Accelerator and
+supported by EIT ICT Labs.
